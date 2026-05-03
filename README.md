@@ -7,6 +7,16 @@ integración** usando `@DataJpaTest` y `@WebMvcTest`, más un pipeline de
 **Integración Continua** con GitHub Actions que ejecuta las pruebas y genera
 reporte de cobertura JaCoCo en cada push.
 
+### Evidencias:
+
+<img width="950" height="289" alt="image" src="https://github.com/user-attachments/assets/dc5ded2f-7dee-4a73-bf7a-aecf004896d1" />
+
+<img width="654" height="463" alt="image" src="https://github.com/user-attachments/assets/d0741d04-9c35-4d21-a84e-79951ec22af8" />
+
+<img width="1129" height="129" alt="image" src="https://github.com/user-attachments/assets/2ee5abc5-bfcc-4e68-8b17-ffdb28321c01" />
+
+<img width="976" height="332" alt="image" src="https://github.com/user-attachments/assets/7d78836d-60ff-44e5-8b2e-8068f34d7db2" />
+
 ---
 
 ## Estructura del Proyecto
